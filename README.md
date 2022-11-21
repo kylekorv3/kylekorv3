@@ -2,7 +2,7 @@
 A software Engineer interested in Quant Research and Blockchain Technology
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=kylekorv3&show_icons=true&theme=graywhite&count_private=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=kylekorv3&show_icons=true&theme=graywhite&count_private=true" />
 
 ## Frontend Skills
 ![My Skills](https://skillicons.dev/icons?i=tailwind,javascript,typescript,react,nextjs&theme=dark)
