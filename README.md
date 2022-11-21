@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi 👋, I'm Kyle ![](https://komarev.com/ghpvc/?username=kylekorv3&color=000000) 
+A software Engineer interested in Quant Research and Blockchain Technology
 
-<!--
-**kylekorv3/kylekorv3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
+<img src="https://github-readme-stats.vercel.app/api?username=kylekorv3&show_icons=true&theme=graywhite&count_private=true&cache_seconds=1800" />
 
-Here are some ideas to get you started:
+## Frontend Skills
+![My Skills](https://skillicons.dev/icons?i=tailwind,javascript,typescript,react,nextjs&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Backend Skills
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,redis,docker,aws&theme=dark)
+
+## Data Science
+![My Skills](https://skillicons.dev/icons?i=py&theme=dark)
+
+
+
+
+
