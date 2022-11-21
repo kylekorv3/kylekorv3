@@ -5,13 +5,13 @@ A software Engineer interested in Quant Research and Blockchain Technology
 <img src="https://github-readme-stats.vercel.app/api?username=kylekorv3&show_icons=true&theme=graywhite&count_private=true" />
 
 ## Frontend Skills
-![My Skills](https://skillicons.dev/icons?i=tailwind,javascript,typescript,react,nextjs&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=tailwind,materialui,javascript,typescript,react,nextjs&theme=dark)
 
 ## Backend Skills
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,redis,docker,aws&theme=dark)
 
 ## Data Science
-![My Skills](https://skillicons.dev/icons?i=py&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=py,pytorch,selenium&theme=dark)
 
 
 
