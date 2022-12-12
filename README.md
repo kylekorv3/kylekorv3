@@ -8,7 +8,7 @@ A software Engineer interested in Quant Research and Blockchain Technology
 ![My Skills](https://skillicons.dev/icons?i=tailwind,materialui,javascript,typescript,react,nextjs&theme=dark)
 
 ## Backend Skills
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,redis,docker,aws&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,redis,firebase,docker,aws&theme=dark)
 
 ## Data Science
 ![My Skills](https://user-images.githubusercontent.com/64918714/205928522-cc283f07-630a-4b69-85a4-e4e18d621962.svg)
